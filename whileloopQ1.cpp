@@ -1,5 +1,5 @@
 #include<iostream>
-// find the value of sum  from 1 to n ,when i is  1 to 5 and sum starts with zero
+// find the value of sum  from 1 to n ,when i start with  1 and sum starts with zero
 using namespace std;
 
 int main(){
